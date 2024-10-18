@@ -1,0 +1,36 @@
+.Banner{
+   
+width: 100%; 
+position: relative;}
+
+.form{width:35%;
+position: absolute;
+top: 40%;
+left: 60%;
+background-color: white;
+padding: 55px;
+border-radius: 30px;}
+
+h4{text-align: center;}
+.form-check-input{border-color: rgb(225, 56, 171);;border-width: 2px;}
+a{ color: rgb(225, 56, 171);}
+
+
+.pre{background-color: rgb(21, 50, 100);
+width: 20%;
+padding: 12px;
+border-radius: 20px;
+height:120px;
+opacity: 50%;
+position: absolute;
+top:80%;
+left: 30%;}
+
+.shoping{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top:76%;
+    left: 29%;
+ 
+}
